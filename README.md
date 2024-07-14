@@ -1,6 +1,6 @@
 # Prepinsta Top 100 Coding Problems Solutions
 
-Welcome to my repository where I have solved almost every problem from the Prepinsta Top 100 coding challenges! This collection showcases my solutions to a diverse range of algorithmic problems, helping to strengthen problem-solving skills and deepen understanding of various concepts.
+Welcome to my repository where I have solved almost every problem from the [Prepinsta Top 100 coding](https://prepinsta.com/top-100-codes/) challenges! This collection showcases my solutions to a diverse range of algorithmic problems, helping to strengthen problem-solving skills and deepen understanding of various concepts.
 
 ## Overview
 
